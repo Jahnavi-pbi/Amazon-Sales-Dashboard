@@ -19,3 +19,5 @@ This project helps track key business metrics such as sales, profit, returns, an
 - **Interactive filters** (Year, Month, Customer)
 # Screenshots
 https://github.com/Jahnavi-pbi/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20dashboard.png
+https://github.com/Jahnavi-pbi/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%202.png
+https://github.com/Jahnavi-pbi/Amazon-Sales-Dashboard/blob/main/Amazon%20sales%20%203.png
