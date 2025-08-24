@@ -18,11 +18,7 @@ This project helps track key business metrics such as sales, profit, returns, an
 - Data Modeling (Star schema with Date table & Orders table)
 - **Interactive filters** (Year, Month, Customer)
 # Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d564feb-22ce-44ed-a78f-c637d048e398" />
-https://github.com/Jahnavi-pbi/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20dashboard.png
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/544035b3-dc7c-4213-b87c-a16da0fc99a9" />
 
-https://github.com/Jahnavi-pbi/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%202.png
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57061c5f-d55f-4073-93ce-d81b2b19c4e5" />
+ ![image alt](https://github.com/Jahnavi-pbi/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%202.png)
 
-https://github.com/Jahnavi-pbi/Amazon-Sales-Dashboard/blob/main/Amazon%20sales%20%203.png
+ ![image alt](https://github.com/Jahnavi-pbi/Amazon-Sales-Dashboard/blob/main/Amazon%20sales%20%203.png)
